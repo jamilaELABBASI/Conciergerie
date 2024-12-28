@@ -34,15 +34,17 @@ dependencies:
   # google_maps_flutter: ^2.2.5  # Add the latest version
   cupertino_icons: ^1.0.8  # iOS style icons
   carousel_slider: ^5.0.0  # Carousel slider package
-  flutter_map: ^7.0.2
+  flutter_map: ^4.0.0  # Ensure you use the latest version
   location: ^6.0.2
-  latlong2: ^0.9.1
+  latlong2: ^0.8.1
   google_maps_flutter: ^2.9.0
+
 
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  google_maps_flutter: ^2.10.0
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is

@@ -145,10 +145,6 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
         GeolocatorWidget(),
         Footerwidget(),
-        Text(
-          "Créer une application en ligne avec www.creer-application.com",
-          style: TextStyle(color: Colors.black, fontSize: 20),
-        )
       ],
     );
   }
